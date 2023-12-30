@@ -1,0 +1,41 @@
+{
+  "posts":[
+    {
+      "id": 1,
+      "title": "Exploring all the Cosmos",
+      "description": "Embark on a cosmic journey as we delve into the mysteries of the universe. Uncover the wonders of distant galaxies and marvel at the beauty of celestial bodies.",
+      "likeCount": 300
+    },
+    {
+      "id": 2,
+      "title": "Epicurean Delights",
+      "description": "Savor the essence of gastronomic delight with our culinary adventure. From exotic flavors to comforting classics, indulge your taste buds and elevate your dining experience.",
+      "likeCount": 150
+    },
+    {
+      "id": 3,
+      "title": "Thrilling Adventures Await",
+      "description": "Embark on adrenaline-pumping escapades that push the boundaries of excitement. Join us on daring journeys, from soaring heights to unexplored terrains, and live life on the edge.",
+      "likeCount": 321
+    },
+    {
+      "id": 4,
+      "title": "Artistry in Motion",
+      "description": "Immerse yourself in the world of artistic expression. Witness the fusion of colors, shapes, and emotions as creators bring their visions to life, inviting you into a realm of creativity.",
+      "likeCount": 412
+    },
+    {
+      "id": 5,
+      "title": "Mindful Moments",
+      "description": "Discover the power of mindfulness with serene landscapes and tranquil reflections. Embrace moments of calm as we explore practices that cultivate peace and balance in everyday life.",
+      "likeCount": 189
+    },
+    {
+      "id": 6,
+      "title": "Tech Innovations Unveiled",
+      "description": "Dive into the forefront of technological marvels. Witness groundbreaking innovations that redefine the future, from AI breakthroughs to cutting-edge advancements shaping our digital landscape.",
+      "likeCount": 543
+    }
+  ]
+  
+}
